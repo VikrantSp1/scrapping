@@ -1,0 +1,8 @@
+python-decouple
+mysqlclient
+pandas
+selenium
+webdriver_manager
+beautifulsoup4
+djangorestframework
+requests
